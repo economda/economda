@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @economda
 - 👀 I’m interested in Serious Games
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Web Development, Unity, coupled with generative AI and Biometric UX
 - 💞️ I’m looking to collaborate on Game and Mobile Development
 - 📫 You can contact me in D.Economou@westminster.ac.uk
 
